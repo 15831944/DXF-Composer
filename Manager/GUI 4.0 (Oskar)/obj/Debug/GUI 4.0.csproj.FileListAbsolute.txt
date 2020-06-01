@@ -1,0 +1,31 @@
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\GUI 4.0.exe.config
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\GUI 4.0.exe
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\GUI 4.0.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\DXF_Management.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\ElementManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\Image_Symbol_Management.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\netDxf.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\TextManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\ToolsetFunctions.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\XmlManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\CsPotrace.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\DXF_Management.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\ElementManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\Image_Symbol_Management.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\TextManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\ToolsetFunctions.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\XmlManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\bin\Debug\netDxf.xml
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.csprojAssemblyReference.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\MainWindow.g.cs
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\App.g.cs
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0_MarkupCompile.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0_MarkupCompile.lref
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\MainWindow.baml
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.g.resources
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI_4._0.Properties.Resources.resources
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.csproj.GenerateResource.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.csproj.CopyComplete
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.exe
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\GUI 4.0 (Oskar)\obj\Debug\GUI 4.0.pdb

@@ -1,0 +1,6 @@
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\bin\Debug\XmlManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\bin\Debug\XmlManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\obj\Debug\XmlManager.csprojAssemblyReference.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\obj\Debug\XmlManager.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\obj\Debug\XmlManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\XmlManager (Youri)\obj\Debug\XmlManager.pdb

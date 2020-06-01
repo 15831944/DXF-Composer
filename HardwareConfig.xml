@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<HardwareConfig>
+	<maxArbeitsbereich>
+		<x>300</x>
+		<y>400</y>
+	</maxArbeitsbereich>
+	<einspannungsgrenze>20</einspannungsgrenze>
+	<werkzeuge>
+		<werkzeug id="Fraese">
+			<Breite>1,5</Breite>
+			<Arbeitshoehe>-1</Arbeitshoehe>
+			<Arbeitsgeschwindigkeit>5</Arbeitsgeschwindigkeit>
+			<Fahrhoehe>5</Fahrhoehe>
+			<Fahrgeschwindigkeit>25</Fahrgeschwindigkeit>
+			<Befestigungsposition>
+				<x>3</x>
+				<y>0</y>
+				<z>-40</z>
+			</Befestigungsposition>
+		</werkzeug>
+		<werkzeug id="Stift">
+			<Breite>2</Breite>
+			<Arbeitshoehe>0</Arbeitshoehe>
+			<Arbeitsgeschwindigkeit>15</Arbeitsgeschwindigkeit>
+			<Fahrhoehe>3</Fahrhoehe>
+			<Fahrgeschwindigkeit>25</Fahrgeschwindigkeit>
+			<Befestigungsposition>
+				<x>-3</x>
+				<y>-45</y>
+				<z>0</z>
+			</Befestigungsposition>
+		</werkzeug>
+	</werkzeuge>
+	<werkstuecke>
+		<werkstueck id="Papier auf Whiteboard">
+			<Dicke>20</Dicke>
+			<moegliche_Werkzeuge>
+				<Werkzeug>Stift</Werkzeug>
+			</moegliche_Werkzeuge>
+		</werkstueck>
+		<werkstueck id="Holz">
+			<Dicke>15</Dicke>
+			<moegliche_Werkzeuge>
+				<Werkzeug>Stift</Werkzeug>
+				<Werkzeug>Fraese</Werkzeug>
+			</moegliche_Werkzeuge>
+		</werkstueck>
+	</werkstuecke>
+</HardwareConfig>

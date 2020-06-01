@@ -1,0 +1,9 @@
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\bin\Debug\ElementManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\bin\Debug\ElementManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\bin\Debug\TextManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\bin\Debug\TextManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\obj\Debug\ElementManager.csprojAssemblyReference.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\obj\Debug\ElementManager.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\obj\Debug\ElementManager.csproj.CopyComplete
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\obj\Debug\ElementManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ElementManager (Oskar)\obj\Debug\ElementManager.pdb

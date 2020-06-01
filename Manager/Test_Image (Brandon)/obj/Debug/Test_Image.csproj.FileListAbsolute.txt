@@ -1,0 +1,17 @@
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\Test_Image.exe.config
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\Test_Image.exe
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\Test_Image.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\CsPotrace.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\Image_Symbol_Management.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\netDxf.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\Image_Symbol_Management.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\bin\Debug\netDxf.xml
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.csprojAssemblyReference.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.Testumgebung_Image.resources
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.Testumgebung_image_viewer.resources
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.Properties.Resources.resources
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.csproj.GenerateResource.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.csproj.CopyComplete
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.exe
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\Test_Image (Brandon)\obj\Debug\Test_Image.pdb

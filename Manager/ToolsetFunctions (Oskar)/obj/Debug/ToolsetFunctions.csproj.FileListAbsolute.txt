@@ -1,0 +1,11 @@
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\ToolsetFunctions.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\ToolsetFunctions.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\ElementManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\TextManager.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\ElementManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\bin\Debug\TextManager.pdb
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\obj\Debug\ToolsetFunctions.csprojAssemblyReference.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\obj\Debug\ToolsetFunctions.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\obj\Debug\ToolsetFunctions.csproj.CopyComplete
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\obj\Debug\ToolsetFunctions.dll
+F:\Users\User\Documents\ProgrammierungSVN\Projekte\programmierprojekt\nji-sai-sei\Softy BOY's - DXF Composer\Manager\ToolsetFunctions (Oskar)\obj\Debug\ToolsetFunctions.pdb

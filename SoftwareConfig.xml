@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<SoftwareConfig>
+  <paths>
+    <installedFonts>
+		<File type="Arial">\arial.TTF</File>
+		<File type="Times New Roman">\times.TTF</File>
+		<File type="Calibri">\calibri.TTF</File>
+    </installedFonts>
+    <additionalFonts>
+		<File type="HTW regular">HTWBerlin-Office\HTWBerlinOffice-Regular.ttf</File>
+		<File type="HTW bold">HTWBerlin-Office\HTWBerlinOffice-Bold.ttf</File>
+		<File type="HTW bold italic">HTWBerlin-Office\HTWBerlinOffice-Italic.ttf</File>
+		<File type="HTW italic">HTWBerlin-Office\HTWBerlinOffice-BoldItalic.ttf</File>
+    </additionalFonts>
+	<HtwLogoOskar>HTW-Logo.dxf</HtwLogoOskar>
+	<HtwLogoBrandon>\HTWLOGO.dxf</HtwLogoBrandon>
+	<ApelTest>\ApelTest.dxf</ApelTest>
+	<TestDxf>\Test.dxf</TestDxf>
+	<weitererTestDxf>\weitererTest.dxf</weitererTestDxf>
+  </paths>
+  <standardValues>
+    <text> 
+      <tB_incomingText>Oskar arbeitet...</tB_incomingText>
+      <cB_fontFamily>Arial</cB_fontFamily>
+      <cB_fontSize>11</cB_fontSize>
+    </text>
+    <drawing>
+      <blackStroke>System.Windows.Media.Brushes.Black</blackStroke>
+      <strokeThickness>2</strokeThickness>
+    </drawing>
+	<ImageManager>
+      <threshold>99</threshold>
+      <curveTolerance>0.2</curveTolerance>
+	  <curveoptimazing>true</curveoptimazing>
+	  <Alphamax>1</Alphamax>
+	  <ignoreAreaPixel>2</ignoreAreaPixel>
+	  <penColor>black</penColor>
+	  <penWidth>2</penWidth>
+	</ImageManager>
+	</standardValues>
+</SoftwareConfig>
